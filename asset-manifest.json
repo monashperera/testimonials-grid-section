@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/testimonials-grid-section/static/css/main.ec8728a4.css",
+    "main.css": "/testimonials-grid-section/static/css/main.46f7b1a8.css",
     "main.js": "/testimonials-grid-section/static/js/main.0a748697.js",
     "static/js/584.03212ea7.chunk.js": "/testimonials-grid-section/static/js/584.03212ea7.chunk.js",
     "static/media/barlow-semi-condensed-v15-latin-600.woff2": "/testimonials-grid-section/static/media/barlow-semi-condensed-v15-latin-600.deb0b3e878dc193d649c.woff2",
@@ -8,12 +8,12 @@
     "static/media/barlow-semi-condensed-v15-latin-regular.woff2": "/testimonials-grid-section/static/media/barlow-semi-condensed-v15-latin-regular.78ad1e7e071860b98162.woff2",
     "index.html": "/testimonials-grid-section/index.html",
     "static/media/bg-pattern-quotation.svg": "/testimonials-grid-section/static/media/bg-pattern-quotation.6b460e30439432820da6.svg",
-    "main.ec8728a4.css.map": "/testimonials-grid-section/static/css/main.ec8728a4.css.map",
+    "main.46f7b1a8.css.map": "/testimonials-grid-section/static/css/main.46f7b1a8.css.map",
     "main.0a748697.js.map": "/testimonials-grid-section/static/js/main.0a748697.js.map",
     "584.03212ea7.chunk.js.map": "/testimonials-grid-section/static/js/584.03212ea7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec8728a4.css",
+    "static/css/main.46f7b1a8.css",
     "static/js/main.0a748697.js"
   ]
 }
